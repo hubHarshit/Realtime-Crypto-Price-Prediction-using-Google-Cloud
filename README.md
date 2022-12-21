@@ -1,5 +1,5 @@
 
-###Predicting Crypto Market Tendencies – Volatility as an Advantage 
+# Predicting Crypto Market Tendencies – Volatility as an Advantage 
 
 
  ![image](https://user-images.githubusercontent.com/105987080/208795393-41cae2c2-a534-481e-884d-718ac9a3083b.png)
