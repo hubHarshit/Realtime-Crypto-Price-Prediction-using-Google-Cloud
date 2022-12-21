@@ -21,6 +21,8 @@ a. Create a cloud function to connect to the Coinbase parser from the Coinbase A
 
 b. Define a job schedule using the Cloud Scheduler with a trigger frequency of 10 minutes. The scheduler triggers the cloud function to transfer the JSON directly to the pubsub and a single dataflow transfers the data to BigQuery. The configuration is shown below. 
 ![image](https://user-images.githubusercontent.com/105987080/208795611-6606775c-85f7-4e3b-aeb1-a12fccba0c80.png)
+
+
 ![image](https://user-images.githubusercontent.com/105987080/208795665-76dff0e1-7ec7-4077-a46d-6fa4919d4d28.png)
 
 
